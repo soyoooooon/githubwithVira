@@ -12,8 +12,8 @@ Here is some text about the app
 
 ## Authors
 
-* ** Person 1** - *Designer* 
-* *Person 2** - *Developer* 
+* ** Person 1 ** - *Designer* 
+* ** Person 2 ** - *Developer* 
 
 
 
