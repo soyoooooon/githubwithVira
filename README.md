@@ -8,13 +8,12 @@ HTML Page with robotonic theme containing drag and drop functunality to load aud
 
 ## Getting Started
 
-On a separate branches added and structured folders and initial files. On a dev branch added html css and js files. On a des branch added images, assets, includes folders with some references. 
-
+Here is some text about the app
 
 ## Authors
 
-* **Vira Romanko** - *Designer* 
-* **Cadence Watson** - *Developer* 
+* ** Person 1** - *Designer* 
+* *Person 2** - *Developer* 
 
 
 
